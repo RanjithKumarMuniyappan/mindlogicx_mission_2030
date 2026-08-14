@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "windows": { "url": "https://<your-host>/mission_wallpaper.py", "sha256": "fcbfd40708e3fcb52b079a621ba8398de3f874544c23969bf5d156e79b4326c0" },
+  "mac":     { "url": "https://<your-host>/mission_wallpaper.py", "sha256": "fcbfd40708e3fcb52b079a621ba8398de3f874544c23969bf5d156e79b4326c0" },
+  "linux":   { "url": "https://<your-host>/mission-wallpaper",    "sha256": "ecea47e0cf1ec439779c52b240ef63cd831cbaa57721039da805cf4993c803c0" }
+}
