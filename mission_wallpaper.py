@@ -68,7 +68,7 @@ APP_VERSION = "1.0.0"
 #   }
 # See Mission_2030_Install_Guide.docx for the full walkthrough (hosting
 # options, how to compute the sha256 values, etc).
-UPDATE_MANIFEST_URL = ""
+UPDATE_MANIFEST_URL = "https://raw.githubusercontent.com/RanjithKumarMuniyappan/mindlogicx_mission_2030/refs/heads/main/update.json"
 
 # How often a running copy re-checks for updates (once at startup, then on
 # this interval for as long as it keeps running).
